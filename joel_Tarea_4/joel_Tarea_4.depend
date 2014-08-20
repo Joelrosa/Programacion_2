@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408326882 source:c:\users\usuario\desktop\progra 2\programacion_2\joel_tarea_4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+

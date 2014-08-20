@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408488669 source:c:\users\usuario\desktop\progra 2\programacion_2\joel_rosa_examen1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
